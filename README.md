@@ -18,7 +18,9 @@ Review Question : I sorted reviews which gave good rating but bad comments and v
 
  
   Here is my github link in which i am uploading my notebooks .
-  Gitlab is giving some login issue.
+  https://github.com/shreyanshbhalodiya/Next_Technology.git
+  Gitlab is giving some login issue
+  
   
   Thanking you 
   shreyansh 
