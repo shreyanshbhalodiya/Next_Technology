@@ -14,9 +14,11 @@ Review Question : I sorted reviews which gave good rating but bad comments and v
  Qustion 3) 
  Link given for dataset is of yelpdataset :   I tied to load the data in juypter notebook as well as google colab but got memory error so could't solve further .
  
- 
+ I am also adding the KNN model which i automated from scratch for extra questions asked .
+
  
   Here is my github link in which i am uploading my notebooks .
   Gitlab is giving some login issue.
   
-  Thanking you shreyansh 
+  Thanking you 
+  shreyansh 
